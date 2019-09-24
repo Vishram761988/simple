@@ -1,7 +1,8 @@
 package simple1;
 
-public class arraysimple {
-	package Array;
+public class arraysimple 
+{
+	//start
 
 	import java.util.Arrays;
 
